@@ -5,6 +5,7 @@ seoDescription: "Automating meetings with AI agents using Claude + Zoom APIs"
 datePublished: 2026-05-14T00:57:20.156Z
 cuid: cmp4s3t3v00db2fm91czi641w
 slug: claude-ai-zoom-automation-building-an-ai-meeting-agent
+cover: https://cdn.hashnode.com/uploads/covers/6a0519d6a0c15402778c59a1/528b86dc-5e09-4f79-b183-353b3774884b.jpg
 tags: ai, zoom, ai-tools, mcp, mcp-server, mcp-host, mcp-client, zoommcp
 
 ---
