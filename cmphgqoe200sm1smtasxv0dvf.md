@@ -1,8 +1,11 @@
 ---
 title: "I Built a Self-Updating Electricity Dashboard from Gmail Notifications — Here’s How It Got Messy"
+seoTitle: "Electricity stats from Gmail "
 datePublished: 2026-05-22T22:00:12.029Z
 cuid: cmphgqoe200sm1smtasxv0dvf
 slug: i-built-a-self-updating-electricity-dashboard-from-gmail-notifications-here-s-how-it-got-messy
+cover: https://cdn.hashnode.com/uploads/covers/6a0519d6a0c15402778c59a1/d8e2fc62-d598-430b-ac47-103da77324de.jpg
+tags: ai, google-cloud, automation, google, homelab, electricity, claude, gmail-accounts, claude-code
 
 ---
 
