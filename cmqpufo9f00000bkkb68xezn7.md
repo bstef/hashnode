@@ -8,13 +8,15 @@ tags: website, cloudflare, cloudformation, aws, cloud-computing, migration, infr
 
 ---
 
-![](https://cdn.hashnode.com/uploads/covers/6a0519d6a0c15402778c59a1/e0eaa133-b18e-4076-b795-f289771e0cc8.png align="center")
-
 ## The Question That Started It All
 
 Like many engineers, I built my early web projects on AWS. It worked — but over time I started asking: *am I paying for complexity I don't actually need?*
 
 After migrating multiple projects off AWS and onto Cloudflare, the answer was yes.
+
+![]( align="center")
+
+![](https://cdn.hashnode.com/uploads/covers/6a0519d6a0c15402778c59a1/bbdbcd0f-5bda-4ee3-9715-2810fb009508.svg align="center")
 
 * * *
 
