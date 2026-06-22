@@ -3,6 +3,7 @@ title: "From AWS to Cloudflare: Why I Migrated My Web Infrastructure"
 datePublished: 2026-06-22T23:25:25.051Z
 cuid: cmqpufo9f00000bkkb68xezn7
 slug: from-aws-to-cloudflare-why-i-migrated-my-web-infrastructure
+cover: https://cdn.hashnode.com/uploads/covers/6a0519d6a0c15402778c59a1/4df9223d-5370-41fc-a845-c9298edb5b99.png
 tags: website, cloudflare, cloudformation, aws, cloud-computing, migration, infrastructure, awsamplify, cloudflare-worker, cloudflare-pages
 
 ---
