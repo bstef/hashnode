@@ -4,6 +4,7 @@ title: "From a Podcast Archive to a Searchable Sermon Library: Building Skyline 
 datePublished: 2026-10-13T01:12:57.774Z
 cuid: cmv5zldw1000007l5b5yfcvx1
 slug: from-a-podcast-archive-to-a-searchable-sermon-library-building-skyline-echo
+cover: https://cdn.hashnode.com/uploads/covers/6a0519d6a0c15402778c59a1/7aa52df5-37f6-440a-92ed-e387b5efd7ad.png
 tags: podcast, podcasts, searching-algorithms, podcast-transcription
 
 ---
